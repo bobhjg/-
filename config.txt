@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-05-10",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "",
+"note_ch": "早安安~小朋友，清晨的第一声问候必须给我最爱的人，嘿嘿新的一天，我已经准备好对你的宠爱呐。众生皆是小饼干，你是最甜的哪一块",
 # 金句英文
-"note_en": ""
+"note_en": "Hold a bunch of morning light, gently put it on your face, and bring it toYour day is cool. May you wake up from your sleep and see hope in your eyes. Your heart is full of peace and serenity. That's the good wish I sent you. Goodmorning,baby!"
 }
