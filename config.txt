@@ -50,4 +50,3 @@
 "color_commemoration_day2":       "",          # 纪念日2字体颜色
 "color_yq":                       "",          # 疫情数据字体颜色
 }
-
